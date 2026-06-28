@@ -12,7 +12,7 @@
         "Id": "dev.rarehyperion.textlauncher",
         "License": "MIT",
         "Name": "Text Launcher",
-        "Version": "1.0.0",
+        "Version": "1.0",
         "Website": "https://github.com/RareHyperIonYT/TextLauncher"
     },
     "X-Plasma-API-Minimum-Version": "6.0"
